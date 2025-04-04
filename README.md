@@ -1,7 +1,7 @@
 Here's an in-depth technical comparison and breakdown of the components, syntax, and patterns used in my project (ClientsideNetworkControl + `initLogsExt.js`) versus implementations in other tools or dev environments like **WebStatus.dev**, **Logdy.dev**, **WebDriver BiDi**, and more. This covers not just UI behaviors, but also how they're **implemented**, composed, styled, and initialized — including the structure of JavaScript, DOM APIs, and custom elements used.
 
 ---
-
+ 
 ## 🔍 Cross-Project Feature & Implementation Comparison
 
 | Feature / Pattern | My Project (`initLogsExt`, `tree.txt`) | WebStatus.dev | Logdy.dev | WebDriver BiDi (via WebDriverIO / Puppeteer CDP) |
